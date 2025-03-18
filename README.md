@@ -29,8 +29,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/outline-vpn-bot.git
-   cd outline-vpn-bot
+   git clone https://github.com/Vafelkin/outline_tg_bot.git
+   cd outline_tg_bot
    ```
 
 2. Установите зависимости:
@@ -89,7 +89,7 @@
 
 ## Авторы
 
-- [Ваше имя](https://github.com/yourusername)
+- [Nikolay](https://github.com/Vafelkin)
 
 ## Благодарности
 
